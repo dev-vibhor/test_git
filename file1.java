@@ -1,3 +1,3 @@
 fghfghfgh
 fghgfh
-fhgf
+fhgfgit config user.email "devops@vibhorsingh.xyz"
